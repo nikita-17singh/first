@@ -2,7 +2,7 @@
 this is my first repository
 <br>
 Author - Nikita Singh
-# my open source jorney
+# my open source journey
 hi, i am Nikita
 this is my first GitHub repsitory.
 ## About me
